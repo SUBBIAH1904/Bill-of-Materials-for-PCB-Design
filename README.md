@@ -1,7 +1,7 @@
-# Bill-of-Materials-for-PCB-Design
+![image](https://github.com/user-attachments/assets/d85bff28-a49d-445c-9cef-fd5efe4c121a)# Bill-of-Materials-for-PCB-Design
 # Aim
 
-To prepare the Bill of Material for the given circuit.
+To prepare the Bill of Material for the 4-Relay Model Board circuit.
 
 # Software’s required
 
@@ -58,15 +58,10 @@ During the product life, components may fail needing repair or upgrade. Here the
 •	Diagnostics — Expected voltages, signal values </br>
 
 # Circuit Diagram
-
-
-
+![WhatsApp Image 2025-03-14 at 9 36 56 PM](https://github.com/user-attachments/assets/dc6a571d-2d6b-45a8-a9a5-20fdf552f413)
 
 # Output
-
-
-
-
+![Screenshot 2025-03-14 213451](https://github.com/user-attachments/assets/413cef22-bfcd-461f-910f-7c2a8bcc4a76)
 
 # Result 
 Thus the bill of materials is prepared for the given PCB circuit.
