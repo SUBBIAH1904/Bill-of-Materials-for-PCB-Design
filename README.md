@@ -1,4 +1,3 @@
-![image](https://github.com/user-attachments/assets/d85bff28-a49d-445c-9cef-fd5efe4c121a)# Bill-of-Materials-for-PCB-Design
 # Aim
 
 To prepare the Bill of Material for the 4-Relay Model Board circuit.
